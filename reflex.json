@@ -1,0 +1,6 @@
+{
+  "app_name": "tonie_converter",
+  "db_url": "sqlite:///reflex.db",
+  "env": "prod",
+  "frontend_port": 3000
+}
